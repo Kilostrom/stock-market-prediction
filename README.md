@@ -22,7 +22,7 @@ NOTE** Stock.py was to test if yfinancial works, from the download and see if th
 
 
 # Code that will need to be change if using the code
-- change the start date and end date to the desire date that you want to get the data from the yfinancial
+    - change the start date and end date to the desire date that you want to get the data from the yfinancial
 
       def fetch_and_preprocess_stock_data(symbol):
           stock_data = yf.download(symbol, start='2010-01-01', end='2024-06-28')
