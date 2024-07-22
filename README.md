@@ -3,6 +3,8 @@
 Stock market that predict the closing price for a stock. Which use the free financial stock market data from Yahoo financial. With a model selection train and test model to train the given data from Yahoo financial.
 On a linear regression model. 
 
+NOTE** Stock.py was to test if yfinancial works, from the download and see if the data was store by printing it out**
+
 # what I learned
 
 - How to implentment the yfinancial in python
